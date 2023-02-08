@@ -1,0 +1,15 @@
+E:\.NET\New folder\OOP_Demo\bin\Debug\net6.0\OOP_Demo.exe
+E:\.NET\New folder\OOP_Demo\bin\Debug\net6.0\OOP_Demo.deps.json
+E:\.NET\New folder\OOP_Demo\bin\Debug\net6.0\OOP_Demo.runtimeconfig.json
+E:\.NET\New folder\OOP_Demo\bin\Debug\net6.0\OOP_Demo.dll
+E:\.NET\New folder\OOP_Demo\bin\Debug\net6.0\OOP_Demo.pdb
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\OOP_Demo.csproj.AssemblyReference.cache
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\OOP_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\OOP_Demo.AssemblyInfoInputs.cache
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\OOP_Demo.AssemblyInfo.cs
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\OOP_Demo.csproj.CoreCompileInputs.cache
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\OOP_Demo.dll
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\refint\OOP_Demo.dll
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\OOP_Demo.pdb
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\OOP_Demo.genruntimeconfig.cache
+E:\.NET\New folder\OOP_Demo\obj\Debug\net6.0\ref\OOP_Demo.dll
